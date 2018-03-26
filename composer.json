@@ -9,7 +9,6 @@
             "email": "46099117@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "jpush/jpush": "3.5.*"
     },
