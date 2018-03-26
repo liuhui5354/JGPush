@@ -1,5 +1,5 @@
 <?php
-namespace nick\jgpush;
+namespace liuhui5354\jgpush;
 
 use JPush\Client as JPushClient;
 use JPush\Exceptions\APIConnectionException;
