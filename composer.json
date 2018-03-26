@@ -1,0 +1,19 @@
+{
+    "name": "nick/jgpush",
+    "description": "极光推送-简易版",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nick",
+            "email": "46099117@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "jpush/jpush": "3.5.*"
+    },
+    "autoload": {
+        "psr-4": { "nick\\jgpush\\": "" }
+    }
+}
